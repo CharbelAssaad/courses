@@ -1,0 +1,8 @@
+.logo{
+background-color: transparent;
+width: 30%;
+}
+a.logo-text{
+font-weight: bold;
+display:flex;
+}
